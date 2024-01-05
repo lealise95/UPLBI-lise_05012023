@@ -1,6 +1,3 @@
-<html>
-   <head>
-<title>Leas erste Webseite</title>
    </head>
     <body>
  <h1>Login</h1>
